@@ -16,7 +16,7 @@ My B.Sc. thesis focus on ??
 
 I also have many years experience as a software engineer and ai researcher in [RIPI](https://www.ripi.ir/) and [FTM](https://www.linkedin.com/company/fater-afkar-fanavar/posts/?feedView=all) and ?? 
 
-Download my [CV](files/resume.pdf).
+Download my [CV](https://github.com/mosi2002/home/blob/master/files/resume.pdf).
 
 ## Research Interests:
 * Machine Learning 
