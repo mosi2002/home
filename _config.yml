@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ali Izadi"
+title                    : "Mostafa Nesaeian"
 title_separator          : "-"
-name                     : &name "Ali Izadi"
-description              : &description "Research Assistant at Computational Audio-Vision Lab at School of ECE, University of Tehran"
-url                      : https://aliizadi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mostafa Nesaeian"
+description              : &description "interested in control theory and applied mathematics."
+url                      : https://mosi2002.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aliizadi.github.io"
+repository               : "mosi2002.github.io/home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ali Izadi"
+  name             : "Mostafa Nesaeian"
   avatar           : "profile.jpg"
-  bio              : "Master Student, Artifical Intelligence"
+  bio              : "Bachelor Student, Electrical Engineering"
   location         : "Tehran, Iran"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "aliizadi2030@gmail.com"
+  email            : "nesaeian.mostafa@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aliizadi"
+  github           : "mosi2002"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ali-izadi/"
+  linkedin         : "mostafa-nesaeian/"
   orcid            :
   pinterest        :
   soundcloud       :
