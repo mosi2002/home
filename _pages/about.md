@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ali Izadi"
+title: "Mostafa Nesaeian"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,25 +10,24 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-I am a Master student of Artificial Intelligence at the school of [ECE university of Tehran](https://ece.ut.ac.ir/en/ece), Iran. I am also a research assistant at [Computational Audio-Vision Lab](https://visionlab.ut.ac.ir) under supervision of Dr. [Reshad Hosseini](https://scholar.google.com/citations?user=zqa4EY0AAAAJ&hl=en) and Dr. [Mostafa Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en). My research focuses on the causal discovery algorithms using continuous optimization methods. Additionally, I am interested in generative modeling, especially of normalizing flow and variational auto encoder. 
+I am a Bachelor student of Electrical Engineering at the school of [EE Amirkabir University of Technology (Tehran Polytechnic)](https://ee.aut.ac.ir/), Iran. I am also a research assistant at  Lab under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en) in school of electrical engineering of Tehran Polytechnic and Dr. [S. Vahid Naghavi](https://scholar.google.com/citations?user=5bT9h5IAAAAJ&hl=en) in [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/). My research focuses on control theory and neural network based control. Additionally, I am interested in applied mathematics and machine learning.
 
-Before starting my Master, I received my B.Sc. degree from the Department of [Computer Engineering and Information Technology](https://ce.aut.ac.ir/index.php?sid=4&slc_lang=en), Amirkabir University of Technology, Tehran, Iran, in 2020, with my thesis on implementing a person recognition and tracking system. 
+My B.Sc. thesis focus on ??
 
-I also have two years of experience as a junior to mid-level data scientist in [ParticleB](https://particleb.ai/) and [Miras Technologies](https://www.linkedin.com/company/miras-tech/). 
+I also have many years experience as a software engineer and ai researcher in [RIPI](https://www.ripi.ir/) and [FTM](https://www.linkedin.com/company/fater-afkar-fanavar/posts/?feedView=all) and ?? 
 
-Download my [CV](http://aliizadi.github.io/files/Ali_Izadi_CV.pdf).
+Download my [CV](http://aliizadi.github.io/files/resume.pdf).
 
 ## Research Interests:
-* Causal discovery and inference 
+* Machine Learning 
+* Control Theory
+* Applied Mathematics
 * Optimization
-* Generative modeling
 
 
 <hr>
-## Education:
-* Master of Science, Artificial Intelligence, 2020 - present <br> [University of Tehran](https://ut.ac.ir/en)
-  
-* Bachelor of Science, Computer Engineering - Software, 2015, 2020 <br> [Amirkabir University of Technology, Tehran Polytechnic](https://aut.ac.ir/en)
+## Education:  
+* Bachelor of Science, Electrical Engineer, 2020, present <br> [Amirkabir University of Technology, Tehran Polytechnic](https://aut.ac.ir/en)
 
 <hr>
 ## Research Experience
@@ -40,12 +39,9 @@ under supervision of Dr. Reshad Hosseini and Dr. Mostafa Tavassolipour; Trying t
 introduce a new optimization method.
 
 
-* Bachelor Thesis: Person-Recognition, Spring 2020
+* Bachelor Thesis: State Estimation, 2024
 
-  * Designed and implemented Person Recognition System as Person Attendance Tracker
-using face recognition methods to track and record person’s identities in the videos
-captured from security cameras. Achieved more than 90% tracking and recognition
-accuracy in non-occluded and more than 80% in occluded areas. [(Link)](https://github.com/aliizadi/Person-Recognition)
+  * State estimation [(Link)](https://github.com/mosi2002)
 
 ## News:
 
