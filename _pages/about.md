@@ -10,9 +10,9 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-I am a Bachelor student of Electrical Engineering at the school of [EE Amirkabir University of Technology (Tehran Polytechnic)](https://ee.aut.ac.ir/), Iran. I am also a research assistant at  Lab under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en) in school of electrical engineering of Tehran Polytechnic and Dr. [S. Vahid Naghavi](https://scholar.google.com/citations?user=5bT9h5IAAAAJ&hl=en) in [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/). My research focuses on control theory and neural network based control. Additionally, I am interested in applied mathematics and machine learning.
+I am a Bachelor student of Electrical Engineering at the school of [EE Amirkabir University of Technology (Tehran Polytechnic)](https://ee.aut.ac.ir/), Iran. I am also a research assistant under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en) in school of electrical engineering of Tehran Polytechnic and Dr. [S. Vahid Naghavi](https://scholar.google.com/citations?user=5bT9h5IAAAAJ&hl=en) in [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/). My research focuses on control theory and neural network based control. Additionally, I am interested in applied mathematics and machine learning.
 
-My B.Sc. thesis focus on ??
+My B.Sc. thesis focus on nueral network based state estimation using Lie derivative.
 
 I also have many years experience as a software engineer and ai researcher in [RIPI](https://www.ripi.ir/) and [FTM](https://www.linkedin.com/company/fater-afkar-fanavar/posts/?feedView=all) and ?? 
 
@@ -32,35 +32,31 @@ Download my [CV](https://github.com/mosi2002/home/files/res.pdf).
 <hr>
 ## Research Experience
 
-* Research Assistant at [Computational Audio-Vision Lab](https://visionlab.ut.ac.ir), June 2021 - Present
+* Research Assistant at school of electrical engineer, Dec 2023 - Present
 
-  * Researching on causal discovery algorithms using continuous optimization methods
-under supervision of Dr. Reshad Hosseini and Dr. Mostafa Tavassolipour; Trying to
-introduce a new optimization method.
+  * Researching on state estimation methods how beneficial can each be.
 
 
-* Bachelor Thesis: State Estimation, 2024
+* Research Assistant at Research Institute of Petroleum Industry (RIPI), Mar 2024 - Present
+
+  * Researching on state estimation methods how beneficial can each be.
+
+* Bachelor Thesis: Nueral network based state estimation using Lie derivative, 2024
 
   * State estimation [(Link)](https://github.com/mosi2002)
 
 ## News:
 
-**2022-09-05**: Checkout my technical report, [Systematic Review of Causal Discovery using continuous optimization. Reformulating causal discovery as a graph matching problem](http://aliizadi.github.io/files/paper1.pdf).
+**2024-07-26**: I published a blog post on [Causal Normalizing flow](https://aliizadi.github.io/posts/2022/08/causal-normalizing-flow/), in which I discussed the idea of using Bachelor thesis for a **MPC** controller
 
-**2022-08-30**: I published a blog post on [Causal Normalizing flow](https://aliizadi.github.io/posts/2022/08/causal-normalizing-flow/), in which I discussed the idea of using normalizing flow for causal discovery.
-
-**2022-08-01**: I joined [Hooshbaaz](https://github.com/HooshBaaz/2022_DataAnalytics_SummerSchool), a data analytics bootcamp at university of Tehran as a mentor. [(Link)](https://aliizadi.github.io/teaching/2022-8-data-analytics-bootcamp-mentor)
-
-**2021-08-10**: I attended Amirkabir Artificial Intelligence Student Summit as a workshop instructor on probabilsitc programming. Checkout my [blog post](https://aliizadi.github.io/posts/2021/08/probabilistic-programming/) about this workshop.
-
-**2019-11-01**: I gave a [talk](https://aliizadi.github.io/teaching/2019-11-machine-learning-interpretability) on machine learning Interpretability at Students’ Scientific Chapter of CEIT of Amirkabir University of Technology. 
+**2024-07-26** I published a Comparative study on [Causal Normalizing flow](https://aliizadi.github.io/posts/2022/08/causal-normalizing-flow/), in which I discussed the differnce of MLPs and KANs. (fair comparative!)
 
 
 <hr>
 
 ## Bio:
 
-As a computer science student, **machine learning** and **artificial intelligence** has fascinated me because of the power they give to our understanding of the world and automation of our life. Due to the availability of huge amounts of data we are able to use machine learning and deep learning to analyze and model different tasks that humans can do.<br><br> I have explored and learned different areas of artificial intelligence from computer vision to probabilistic graphical models. As a data scientist I always tried to use machine learning in different areas including social network analysis and financial algorithmic trading.<br><br> Besides working in data science companies I used to research in the field of machine learning, specifically **generative modeling**. The ability to model data in a way that we can generate new data is very interesting for me. I have experience with working and researching on the mechanism of different generative algorithms including **generative adversarial network**, **variational autoencoders**, and **normalizing flows**. <br><br>My most favorite areas in machine learning are those related to probability. Because of that, my main research interest in master degree started from **probabilistic graphical models** and their applications in generative modeling.<br><br> As I progressed in my research I got familiar with **causal inference**, a new field in machine learning with the aim of improving machine learning models in such a way that we can answer new prediction questions that deep learning or other usual ML models can not answer because they work based on correlation not **causation**. These questions are named **interventional** and **counterfactual** prediction tasks and can answer questions that we answer them before with treatment-control experiments which are expensive or impossible to conduct in some cases and we need **causal discovery** algorithms to find the causal variables of how our data really generated. I believe **causal representation learning** can help us to model our world better and really know how our machine learning algorithms work. <br><br>I hope that I will be able to contribute to this field and will propose new methods that improve tasks of causal discovery.
+As a Control Engineer student, **machine learning** and **artificial intelligence** has fascinated me because of the power they give to our understanding of the world and automation of our life. Due to the availability of huge amounts of data we are able to use machine learning and deep learning to analyze and model different tasks that humans can do.<br><br> I have explored and learned different areas of artificial intelligence. As a data scientist I always tried to use machine learning in different areas including social network analysis and financial algorithmic trading.<br><br> Besides working in data science companies I used to research in the field of machine learning, specifically **Computer Vision**. <br><br> As I progressed in my research I got familiar with **Physic-informed Neural Network**, and?
 
 
 <hr>
