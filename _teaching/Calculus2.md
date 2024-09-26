@@ -8,6 +8,6 @@ date: 2023-05-01
 location: "Tehran, Iran"
 ---
 
-Teaching Assistant for Designing and assisting students[(GitHub-Link)](https://github.com/mosi2002/Calculus2) in [Department of Mathematics and Computer Science](https://math.aut.ac.ir/en).
+Teaching Assistant for Designing Homeworks and assisting students[(GitHub-Link)](https://github.com/mosi2002/Calculus2) in [Department of Mathematics and Computer Science](https://math.aut.ac.ir/en).
 
 
