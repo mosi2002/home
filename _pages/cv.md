@@ -9,75 +9,65 @@ redirect_from:
 
 {% include base_path %}
 
-Download my full [CV](http://aliizadi.github.io/files/resume.pdf).
+Download my full [CV](https://github.com/mosi2002/home/files/res.pdf).
 
 ## Education
-* **M.S. in Artificial Intelligence**, University of Tehran, 2020 - 2022
 
-* **B.S. in Computer Software Engineering**, Amirkabir University of Technology - Tehran Polytechnic, 2015 - 2020
+* **B.S. in Electrical Engineering**, Amirkabir University of Technology - Tehran Polytechnic, 2020 - present
+  
+* **High School Diploma**, National Organization for Development of Exceptional Talents (Sampad), 2014 - 2020
+  
 
 ## Research Experience
 
-* **Research Assistant** at [Computational Audio-Vision Lab](https://visionlab.ut.ac.ir), June 2021 - Present
+* **Research Assistant** at [school of electrical engineer](https://ee.aut.ac.ir/index.php?sid=5&slc_lang=en), Dec 2023 - Present
 
-  * Researching on causal discovery algorithms using continuous optimization methods
-under supervision of Dr. Reshad Hosseini and Dr. Mostafa Tavassolipour; Trying to
-introduce a new optimization method.
+  * Researching on state estimation methods how beneficial can each be.
+ 
+* **Research Assistant** at [school of electrical engineer](https://ee.aut.ac.ir/index.php?sid=5&slc_lang=en), Mar 2024 - Present
+
+  * Researching on state estimation methods how beneficial can each be.
 
 
-* **Bachelor Thesis: Person-Recognition**, Spring 2020
+* **Bachelor Thesis: Nueral network based state estimation using Lie derivative**,  2024
 
-  * Designed and implemented Person Recognition System as Person Attendance Tracker
-using face recognition methods to track and record person’s identities in the videos
-captured from security cameras. Achieved more than 90% tracking and recognition
-accuracy in non-occluded and more than 80% in occluded areas. [(Link)](https://github.com/aliizadi/Person-Recognition)
+    * State estimation [(Link)](https://github.com/mosi2002)
 
 
 ## PUBLICATIONS
-* Ali Izadi, **Systematic Review of Causal Discovery using continuous optimization. Reformulating causal discovery as a graph matching problem**.,
-2022, [(Link)](http://aliizadi.github.io/files/paper1.pdf)) <br>
-Conducted as a systematic review for my seminar course in artificial intelligence and
-also proposed a new reformulation of linear causal discovery.
+* Mostafa Nesaeian, S. Vahid Naghavi, **Neural Network based MPC for Continuous Stirred-tank Reactor (CSTR)**.,
+In Preparation
 
-*  Ali Izadi, **Causal Normalizing Flow**, Blog Post, 2022, [(Link)](https://aliizadi.github.io/posts/2022/08/causal-normalizing-flow/)<br>
-Proposed and implemented experiments on how normalizing flow can help causal dis-
-covery
+## TEACHING
 
-## TEACHING & TALKS
-
-* **Data Analytics Bootcamp: Mentor** - University of Tehran- July 2022 <br>
-Collaborated with a group of mentors educating around 80 students for more than 10
-data science workshops. [(GitHub-Link)](https://github.com/HooshBaaz/2022_DataAnalytics_SummerSchool)
-
-* **Probabilistic Programming, Modeling the world through Uncertainty: Workshop Instructor** - August 2021 <br>
-Amirkabir Artificial Intelligence Student Summit. [(Slides/Codes)](https://github.com/aliizadi/probabilistic-programming-workshop) [(Post)](https://aliizadi.github.io/posts/2021/08/probabilistic-programming/) <br>
-Instructed more than 50 students in a 2 hours workshop.
-
-* **Machine Learning Interpretability: Presenter** -  November 2019 <br>
-Students’ Scientific Chapter of CEIT of Amirkabir University of Technology. [(slides)](https://docs.google.com/presentation/d/1LbNXaukxB2_JYV2jTK309sOLWnMTqztNFDJBZG6XgbA/edit?usp=sharing)
-
-* **Probability and Statistics: Teaching Assistant** - Spring 2018 <br>
+* **Calculus 2: Teaching Assistant** - Jan - Jun 2023 <br>
 Amirkabir University of Technology
 
 ## HONORS and AWARDS
-*  Ranked 1238 in the National University Entrance Exam among 160,000 students.
-*  Ranked 41 in the Master of Science University Entrance Exam among 6700 students.
+*  Ranked 590 in the National University Entrance Exam among 130,000 students.
 
 
 ## Work Experience:
-* **Data Scientist**, August 2020 - May 2021: [ParticleB](https://particleb.ai/)
+* **Summer Internship**, Jul 2023 - Aug 2023: [Fater Afkar Fanavar](https://www.linkedin.com/company/fater-afkar-fanavar/posts/?feedView=all)
 
-  * Conducted research on Financial machine learning including algorithmic trading parameter optimization in crypto-currency markets. Accomplished full automation and increased performance by more than 20%.
-  * Implemented the algorithmic trading evaluation system that leads a 50% reduction
-  on running time and development cost.
+  * Designing controllers via python (OpenOPC module) for pilot plant.
+  * Instrumentation, Simulating and processing sensors.
+  *  Image processing. [Link](https://github.com/mosi2002/Internship)
 
-* **Data Developer**, July 2018 - May 2020: [Miras Technologies](https://www.linkedin.com/company/miras-tech/)
+* **Image Processing**, July 2018 - May 2020: [Fater Afkar Fanavar](https://www.linkedin.com/company/fater-afkar-fanavar/posts/?feedView=all)
 
-  * Researched on different algorithmic trading problems including portfolio management, time series analysis, and parameter optimization using python.
-  * Designed and implemented the web crawling system and automatic web page content extraction using Scala. Attained more than 90% accuracy.
-  * Developed software based on functional design and big data technologies including Apache Kafka and Redis using Scala and Akka stream.
+  * Working on deepface model, Vgg16 for image processing.
+  * Working on face vectorizing using mathematical methods with implementation.
 
+* **AI researcher**, July 2018 - May 2020: [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir)
 
+  * Designing and developing intuitive and responsive front-end interfaces for web ap-
+plication using React.
+  * Validation, evaluation and help for backend project.
+  * Conducted research and development for image processing, utilizing advanced neural
+network architectures to create models for object detection and recognition
+
+    
 ## TECHNICAL SKILLS
 * **Languages**: Python, Scala, Typescript
 * **Frameworks and Tools**: Expert at Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib
