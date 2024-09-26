@@ -1,4 +1,4 @@
-
+---
 title: "Neural Network-Based Model Predictive Control for CSTR: A Comparative Study of Output Layer Architectures "
 collection: publications
 permalink: /publication/Neural-network-based-Model-predictive-control
