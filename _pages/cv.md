@@ -20,17 +20,19 @@ Download my full [CV](https://github.com/mosi2002/home/files/res.pdf).
 
 ## Research Experience
 
-* **Research Assistant** at [school of Electrical Engineering](https://ee.aut.ac.ir/en), Dec 2023 - Present
+* **Bachelor Thesis: Nueral network based state estimation using Lie derivative**,  2024
 
-  * Researching on various state estimation methods to evaluate their potential benefits in diverse applications. My focus is on comparing their strengths and weaknesses to see which works best in various situations. In particular, I am looking for Geometric methods for state estimation purpose.
- 
+    * This Thesis consider the problem of state observation for nonlinear dynamics. The problem with model-based observer is due to the need of solving PDEs, in this thesis by using on-line learning and considering the observer dynamics as a Chen-Fliess series. The proposed approach is demonstrated by a chaotic dynamic. [(Link)](https://github.com/mosi2002/Bachelor_Thesis)
+  
+
 * **Research Assistant** at [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/), Mar 2024 - Present
 
   * Researching on Neural Network based Model Predictive Control (MPC) to explore how AI can enhance traditional control systems.
 
-* **Bachelor Thesis: Nueral network based state estimation using Lie derivative**,  2024
+* **Research Assistant** at [school of Electrical Engineering](https://ee.aut.ac.ir/en), Dec 2023 - Present
 
-    * This Thesis consider the problem of state observation for nonlinear dynamics. The problem with model-based observer is due to the need of solving PDEs, in this thesis by using on-line learning and considering the observer dynamics as a Chen-Fliess series. The proposed approach is demonstrated by a chaotic dynamic. [(Link)](https://github.com/mosi2002/Bachelor_Thesis)
+  * Researching on various state estimation methods to evaluate their potential benefits in diverse applications. My focus is on comparing their strengths and weaknesses to see which works best in various situations. In particular, I am looking for Geometric methods for state estimation purpose.
+ 
 
 
 ## PUBLICATIONS
@@ -49,16 +51,6 @@ Designing Homeworks and assisting students [(GitHub-Link)](https://github.com/mo
 
 
 ## Work Experience:
-* **Summer Internship**, Jul 2023 - Aug 2023: [Fater Afkar Fanavar](https://www.linkedin.com/company/fater-afkar-fanavar/about/)
-
-  * Designing controllers via python (OpenOPC module) for pilot plant.
-  * Instrumentation, Simulating and processing sensors.
-  *  Image processing. [(Link)](https://github.com/mosi2002/Internship)
-
-* **Image Processing**, Sep 2023 - Dec 2023: [Fater Afkar Fanavar](https://www.linkedin.com/company/fater-afkar-fanavar/about/)
-
-  * Working on deepface model, Vgg16 for image processing.
-  * Working on face vectorizing using mathematical methods with implementation.
 
 * **AI researcher**, Mar 2024 - present: [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir)
 
@@ -66,7 +58,18 @@ Designing Homeworks and assisting students [(GitHub-Link)](https://github.com/mo
 plication using React.
   * Validation, evaluation and help for backend project.
   * Conducted research and development for image processing, utilizing advanced neural
-network architectures to create models for object detection and recognition
+
+* **Image Processing**, Sep 2023 - Dec 2023: [Fater Afkar Fanavar](https://www.linkedin.com/company/fater-afkar-fanavar/about/)
+
+  * Working on deepface model, Vgg16 for image processing.
+  * Working on face vectorizing using mathematical methods with implementation.
+
+network architectures to create models for object detection and recognition.
+* **Summer Internship**, Jul 2023 - Aug 2023: [Fater Afkar Fanavar](https://www.linkedin.com/company/fater-afkar-fanavar/about/)
+
+  * Designing controllers via python (OpenOPC module) for pilot plant.
+  * Instrumentation, Simulating and processing sensors.
+  *  Image processing. [(Link)](https://github.com/mosi2002/Internship)
 
     
 ## TECHNICAL SKILLS
