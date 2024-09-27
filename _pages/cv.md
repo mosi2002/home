@@ -27,11 +27,11 @@ Download my full [CV](https://github.com/mosi2002/home/files/res.pdf).
 
 * **Research Assistant** at [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/), Mar 2024 - Present
 
-  * Researching on Neural Network based Model Predictive Control (MPC) to explore how AI can enhance traditional control systems.
+  * Researching on Neural Network based Model Predictive Control (MPC) to explore how AI can enhance traditional control systems under supervision of Dr. [S. Vahid Naghavi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en).
 
 * **Research Assistant** at [school of Electrical Engineering](https://ee.aut.ac.ir/en), Dec 2023 - Present
 
-  * Researching on various state estimation methods to evaluate their potential benefits in diverse applications. My focus is on comparing their strengths and weaknesses to see which works best in various situations. In particular, I am looking for Geometric methods for state estimation purpose.
+  * Researching on various state estimation methods under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en) to evaluate their potential benefits in diverse applications. My focus is on comparing their strengths and weaknesses to see which works best in various situations. In particular, I am looking for Geometric methods for state estimation purpose.
  
 
 
