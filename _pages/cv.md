@@ -20,46 +20,47 @@ Download my full [CV](https://github.com/mosi2002/home/files/res.pdf).
 
 ## Research Experience
 
-* **Research Assistant** at [school of electrical engineer](https://ee.aut.ac.ir/index.php?sid=5&slc_lang=en), Dec 2023 - Present
+* **Research Assistant** at [school of Electrical Engineering](https://ee.aut.ac.ir/en), Dec 2023 - Present
 
-  * Researching on state estimation methods how beneficial can each be.
+  * Researching on various state estimation methods to evaluate their potential benefits in diverse applications. My focus is on comparing their strengths and weaknesses to see which works best in various situations. In particular, I am looking for Geometric methods for state estimation purpose.
  
-* **Research Assistant** at [school of electrical engineer](https://ee.aut.ac.ir/index.php?sid=5&slc_lang=en), Mar 2024 - Present
+* **Research Assistant** at [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/), Mar 2024 - Present
 
-  * Researching on state estimation methods how beneficial can each be.
-
+  * Researching on Neural Network based Model Predictive Control (MPC) to explore how AI can enhance traditional control systems.
 
 * **Bachelor Thesis: Nueral network based state estimation using Lie derivative**,  2024
 
-    * State estimation [(Link)](https://github.com/mosi2002)
+    * This Thesis consider the problem of state observation for nonlinear dynamics. The problem with model-based observer is due to the need of solving PDEs, in this thesis by using on-line learning and considering the observer dynamics as a Chen-Fliess series. The proposed approach is demonstrated by a chaotic dynamic. [(Link)](https://github.com/mosi2002/Bachelor_Thesis)
 
 
 ## PUBLICATIONS
-* Mostafa Nesaeian, S. Vahid Naghavi, **Neural Network based MPC for Continuous Stirred-tank Reactor (CSTR)**.,
-In Preparation
+* ?
+
+* Mostafa Nesaeian, S. Vahid Naghavi, **Neural Network-Based Model Predictive Control for CSTR: A Comparative Study of Output Layer Architectures**.,
+**In Preparation**
 
 ## TEACHING
 
-* **Calculus 2: Teaching Assistant** - Jan - Jun 2023 <br>
-Amirkabir University of Technology
+* **Calculus 2: Teaching Assistant** - Amirkabir University of Technology, Jan - Jun 2023 <br>
+Designing Homeworks and assisting students [(GitHub-Link)](https://github.com/mosi2002/Calculus2) for 2n semester 2023 in [Department of Mathematics and Computer Science](https://math.aut.ac.ir/en).
 
 ## HONORS and AWARDS
 *  Ranked 590 in the National University Entrance Exam among 130,000 students.
 
 
 ## Work Experience:
-* **Summer Internship**, Jul 2023 - Aug 2023: [Fater Afkar Fanavar](https://www.linkedin.com/company/fater-afkar-fanavar/posts/?feedView=all)
+* **Summer Internship**, Jul 2023 - Aug 2023: [Fater Afkar Fanavar](https://www.linkedin.com/company/fater-afkar-fanavar/about/)
 
   * Designing controllers via python (OpenOPC module) for pilot plant.
   * Instrumentation, Simulating and processing sensors.
   *  Image processing. [Link](https://github.com/mosi2002/Internship)
 
-* **Image Processing**, July 2018 - May 2020: [Fater Afkar Fanavar](https://www.linkedin.com/company/fater-afkar-fanavar/posts/?feedView=all)
+* **Image Processing**, Sep 2023 - Dec 2023: [Fater Afkar Fanavar](https://www.linkedin.com/company/fater-afkar-fanavar/about/)
 
   * Working on deepface model, Vgg16 for image processing.
   * Working on face vectorizing using mathematical methods with implementation.
 
-* **AI researcher**, July 2018 - May 2020: [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir)
+* **AI researcher**, Mar 2024 - present: [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir)
 
   * Designing and developing intuitive and responsive front-end interfaces for web ap-
 plication using React.
@@ -69,9 +70,9 @@ network architectures to create models for object detection and recognition
 
     
 ## TECHNICAL SKILLS
-* **Languages**: Python, Scala, Typescript
-* **Frameworks and Tools**: Expert at Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib
-* **Development**: Linux, Bash, Kafka, Docker, MongoDb, PostgreSQL, Angular
+* **Languages**: Python, C/C++
+* **Frameworks and Tools**: Tensorflow, Scikit-Learn, Pandas, Numpy, Matplotlib, MATLAB, Git, Flask, React
+* **Development**: Linux, PostgreSQL
 
 
 ## LANGUAGE SKILLS
