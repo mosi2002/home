@@ -53,9 +53,7 @@ Download my [CV](https://github.com/mosi2002/home/files/res.pdf).
 
 ## News:
 
-**2024-09-05** I published a Comparative study on [Neural Network-Based Model Predictive Control for CSTR: A Comparative Study of Output Layer Architectures](https://mosi2002.github.io/home/publication/Neural-network-based-Model-predictive-control), in which I discussed the differnce of MLPs and KANs. (fair comparative!)
-
-**2024-07-26**: I published a blog post on [MPC using state estimation](https://mosi2002.github.io/home/posts/2024/07/mpc-state-estimation/), in which I discussed the idea of using Bachelor thesis for a **MPC** controller
+**2024-09-05** I Completed the code for Comparative study on [Neural Network-Based Model Predictive Control for CSTR: A Comparative Study of Output Layer Architectures](https://mosi2002.github.io/home/publication/Neural-network-based-Model-predictive-control), in which I discussed the differnce of MLPs and KANs. (fair comparative!)
 
 **2024-05-08**: During my research in Digital Lab in Research Institute of Petroleum Industry (RIPI), I published a blog post on [MSE vs RNN](https://mosi2002.github.io/home/posts/2024/05/MSE-vs-RNN/). 
 <hr>
