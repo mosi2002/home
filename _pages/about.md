@@ -38,7 +38,7 @@ Download my [CV](https://github.com/mosi2002/home/files/res.pdf).
     
 * Bachelor Thesis: Nueral network based state estimation using Lie derivative, 2024
 
-  * This Thesis consider the problem of state observation for **nonlinear dynamics**. The problem with model-based observer is due to the need of solving PDEs, in this thesis by using on-line learning and considering the observer dynamics as a Chen-Fliess series. The proposed approach is demonstrated by a chaotic dynamic. [(Link)](https://github.com/mosi2002/Bachelor_Thesis)
+  * This Thesis consider the problem of state observation for **nonlinear dynamics**. The problem with model-based observer is due to the need of solving PDEs, in this thesis by using on-line learning and considering the observer dynamics as a Chen-Fliess series. The proposed approach is demonstrated by a Oscillating system. [(Link)](https://github.com/mosi2002/Bachelor_Thesis)
 
 * Research Assistant at Research Institute of Petroleum Industry (RIPI), May 2024 - Present
 
