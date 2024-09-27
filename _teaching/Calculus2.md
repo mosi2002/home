@@ -1,5 +1,5 @@
 ---
-title: Teaching Assistant: Calculus 2
+title: Teaching Assistant: Calculus2
 collection: teaching
 type: "teaching"
 permalink: /teaching/Calculus2
