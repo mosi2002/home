@@ -10,11 +10,9 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-I am a Bachelor student of Electrical Engineering at the school of [EE Amirkabir University of Technology (Tehran Polytechnic)](https://ee.aut.ac.ir/), Iran. I am also a research assistant under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en) in school of electrical engineering of Tehran Polytechnic and Dr. [S. Vahid Naghavi](https://scholar.google.com/citations?user=5bT9h5IAAAAJ&hl=en) in [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/). My research focuses on control theory and neural network based control. Additionally, I am interested in applied mathematics and machine learning.
-
-My B.Sc. thesis focus on nueral network based state estimation using Lie derivative.
-
-I also have many years experience as a software engineer and ai researcher in [RIPI](https://www.ripi.ir/) and [FTM](https://www.linkedin.com/company/fater-afkar-fanavar/posts/?feedView=all) and ?? 
+I am a Bachelor student of Electrical Engineering at the school of [EE Amirkabir University of Technology (Tehran Polytechnic)](https://ee.aut.ac.ir/en), Iran. I am also a research assistant under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en) in school of electrical engineering of Tehran Polytechnic and Dr. [S. Vahid Naghavi](https://scholar.google.com/citations?user=5bT9h5IAAAAJ&hl=en) in [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/). My research focuses on control theory and neural network based control. Additionally, I am interested in applied mathematics and machine learning.
+My B.Sc. thesis focus on nueral network based state estimation using Lie derivative under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en)
+I also have many years of experience as a software engineer and ai researcher in [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/) and [FTM](https://www.linkedin.com/company/fater-afkar-fanavar/about/) for Machine Vision projects.
 
 Download my [CV](https://github.com/mosi2002/home/files/res.pdf).
 
@@ -24,6 +22,10 @@ Download my [CV](https://github.com/mosi2002/home/files/res.pdf).
 * Applied Mathematics
 * Optimization
 
+<hr>
+## Recent Publications: 
+* ?
+* Neural Network-Based Model Predictive Control for CSTR: A Comparative Study of Output Layer Architectures; Mostafa Nesaeian, [S. Vahid Naghavi](https://scholar.google.com/citations?user=5bT9h5IAAAAJ&hl=en) 2024   IN PREPARATION
 
 <hr>
 ## Education:  
@@ -34,16 +36,16 @@ Download my [CV](https://github.com/mosi2002/home/files/res.pdf).
 
 * Research Assistant at school of electrical engineer, Dec 2023 - Present
 
-  * Researching on state estimation methods how beneficial can each be.
-
+  * Researching on various state estimation methods to evaluate their potential benefits in diverse applications. My focus is on comparing their strengths and weaknesses to see which works best in various situations. In particular, I am looking for **Geometric** methods for state estimation purpose.
 
 * Research Assistant at Research Institute of Petroleum Industry (RIPI), Mar 2024 - Present
 
-  * Researching on state estimation methods how beneficial can each be.
+  * Researching on Neural Network based Model Predictive Control (MPC) to explore how AI can enhance traditional control systems.
+    
 
 * Bachelor Thesis: Nueral network based state estimation using Lie derivative, 2024
 
-  * State estimation [(Link)](https://github.com/mosi2002)
+  * This Thesis consider the problem of state observation for **nonlinear dynamics**. The problem with model-based observer is due to the need of solving PDEs, in this thesis by using on-line learning and considering the observer dynamics as a Chen-Fliess series. The proposed approach is demonstrated by a chaotic dynamic. [(Link)](https://github.com/mosi2002/Bachelor_Thesis)
 
 ## News:
 
@@ -51,12 +53,12 @@ Download my [CV](https://github.com/mosi2002/home/files/res.pdf).
 
 **2024-07-26**: I published a blog post on [MPC using state estimation](https://mosi2002.github.io/home/posts/2024/07/mpc-state-estimation/), in which I discussed the idea of using Bachelor thesis for a **MPC** controller
 
-**2024-05-08**: During my research in Digital Lab in Research Institute of Petroleum Industry (RIPI),I published a blog post on [MSE vs RNN](https://mosi2002.github.io/home/posts/2024/05/MSE-vs-RNN/). 
+**2024-05-08**: During my research in Digital Lab in Research Institute of Petroleum Industry (RIPI), I published a blog post on [MSE vs RNN](https://mosi2002.github.io/home/posts/2024/05/MSE-vs-RNN/). 
 <hr>
 
 ## Bio:
 
-As a Control Engineer student, **machine learning** and **artificial intelligence** has fascinated me because of the power they give to our understanding of the world and automation of our life. Due to the availability of huge amounts of data we are able to use machine learning and deep learning to analyze and model different tasks that humans can do.<br><br> I have explored and learned different areas of artificial intelligence. As a data scientist I always tried to use machine learning in different areas including social network analysis and financial algorithmic trading.<br><br> Besides working in data science companies I used to research in the field of machine learning, specifically **Computer Vision**. <br><br> As I progressed in my research I got familiar with **Physic-informed Neural Network**, and?
+As a Control Engineer student, **machine learning** and **artificial intelligence** has fascinated me because of the power they give to our understanding of the world and automation of our life. Due to the availability of huge amounts of data we are able to use machine learning and deep learning to analyze and model different tasks that humans can do.<br><br> I have explored and learned different areas of artificial intelligence. As a data scientist I always tried to use machine learning in different areas including social network analysis and financial algorithmic trading.<br><br> In addition to my experience working in data science companies, I have also dedicated time to researching advanced topics in machine learning, particularly **Machine Vision**. This field has been especially exciting for me, as it combines the power of AI with visual data and understand the world through images and videos. <br><br> As I progressed in my research I got familiar with **time-series analysis** a crucial area in machine learning that focuses on understanding and predicting data points collected over time. time-series not only deepened my understanding of machine learning but also opened doors to its integration with control engineering, particularly in applications like **Model Predictive Control (MPC)**, where time-dependent data is critical for optimizing system performance. Time-series has intrigued me because of its real-world applications in forecasting and related trend analysis like **Language Model (LM)**
 
 
 <hr>
