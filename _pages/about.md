@@ -39,7 +39,7 @@ Download my [CV](https://github.com/mosi2002/home/files/res.pdf).
 
   * Researching on various state estimation methods to evaluate their potential benefits in diverse applications. My focus is on comparing their strengths and weaknesses to see which works best in various situations. In particular, I am looking for **Geometric** methods for state estimation purpose.
 
-* Research Assistant at Research Institute of Petroleum Industry (RIPI), Mar 2024 - Present
+* Research Assistant at Research Institute of Petroleum Industry (RIPI), May 2024 - Present
 
   * Researching on Neural Network based Model Predictive Control (MPC) to explore how AI can enhance traditional control systems.
     
