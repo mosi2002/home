@@ -30,7 +30,7 @@ Download my [CV](https://github.com/mosi2002/home/files/res.pdf).
 
 <hr>
 ## Education:  
-* Bachelor of Science, Electrical Engineer, 2020 - present         [Amirkabir University of Technology, Tehran Polytechnic](https://aut.ac.ir/en)
+* Bachelor of Science, Electrical Engineer, 2020 - present <br> [Amirkabir University of Technology, Tehran Polytechnic](https://aut.ac.ir/en)
 
 <hr>
 ## Research Experience
