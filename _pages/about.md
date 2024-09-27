@@ -30,7 +30,7 @@ Download my [CV](https://github.com/mosi2002/home/files/res.pdf).
 
 <hr>
 ## Education:  
-* Bachelor of Science, Electrical Engineer, 2020, present <br> [Amirkabir University of Technology, Tehran Polytechnic](https://aut.ac.ir/en)
+* Bachelor of Science, Electrical Engineer, 2020 - present         [Amirkabir University of Technology, Tehran Polytechnic](https://aut.ac.ir/en)
 
 <hr>
 ## Research Experience
@@ -59,7 +59,7 @@ Download my [CV](https://github.com/mosi2002/home/files/res.pdf).
 
 ## Bio:
 
-As a Control Engineer student, **machine learning** and **artificial intelligence** has fascinated me because of the power they give to our understanding of the world and automation of our life. Due to the availability of huge amounts of data we are able to use machine learning and deep learning to analyze and model different tasks that humans can do.<br><br> I have explored and learned different areas of artificial intelligence. As a data scientist I always tried to use machine learning in different areas including social network analysis and financial algorithmic trading.<br><br> In addition to my experience working in data science companies, I have also dedicated time to researching advanced topics in machine learning, particularly **Machine Vision**. This field has been especially exciting for me, as it combines the power of AI with visual data and understand the world through images and videos. <br><br> As I progressed in my research I got familiar with **time-series analysis** a crucial area in machine learning that focuses on understanding and predicting data points collected over time. time-series not only deepened my understanding of machine learning but also opened doors to its integration with control engineering, particularly in applications like **Model Predictive Control (MPC)**, where time-dependent data is critical for optimizing system performance. Time-series has intrigued me because of its real-world applications in forecasting and related trend analysis like **Language Model (LM)**
+As a Control Engineer student, **machine learning** and **artificial intelligence** has fascinated me because of the power they give to our understanding of the world and automation of our life. Due to the availability of huge amounts of data we are able to use machine learning and deep learning to analyze and model different tasks that humans can do.<br><br> I have explored and learned different areas of artificial intelligence. As a data scientist I always tried to use machine learning in different areas including social network analysis and financial algorithmic trading.<br><br> In addition to my experience working in data science companies, I have also dedicated time to researching advanced topics in machine learning, particularly **Machine Vision**. This field has been especially exciting for me, as it combines the power of AI with visual data and understand the world through images and videos. <br><br> As I progressed in my research I got familiar with **time-series analysis** a crucial area in machine learning that focuses on understanding and predicting data points collected over time. time-series not only deepened my understanding of machine learning but also opened doors to its integration with control engineering, particularly in applications like **Model Predictive Control (MPC)**, where time-dependent data is critical for optimizing system performance. Time-series has intrigued me because of its real-world applications in forecasting and related trend analysis like **Language Model (LM)**.
 
 
 <hr>
