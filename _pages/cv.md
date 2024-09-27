@@ -45,7 +45,7 @@ Download my full [CV](https://github.com/mosi2002/home/files/res.pdf).
 Designing Homeworks and assisting students [(GitHub-Link)](https://github.com/mosi2002/Calculus2) for 2n semester 2023 in [Department of Mathematics and Computer Science](https://math.aut.ac.ir/en).
 
 ## HONORS and AWARDS
-*  Ranked 590 in the National University Entrance Exam among 130,000 students.
+*  Ranked 590 in the National University Entrance Exam among 160,000 students.
 
 
 ## Work Experience:
