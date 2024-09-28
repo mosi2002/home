@@ -21,7 +21,7 @@ $$
 \frac{dT}{dt} = \frac{F}{V}(T_0 - T) + \frac{-\Delta H}{\rho_L C_P} k_0 e^{-\frac{E}{RT}} C_A^2 + \frac{Q}{\rho_L C_P V}
 $$
 
-then By Concatenation of all the these inputs and the outputs N samples over time and it can be used for LSTM or GRU model. In this article we focuse on comparison study on output layers of these models and we compare **MLPs** and **KANs**.
+then By Concatenation of all the these inputs and the outputs we will have N samples over time and it can be used for LSTM or GRU model. In this article we focus on comparison study on output layers of these models and we compare **MLPs** and **KANs**.
 
 **Pleased to announce that my latest project, conducted in collaboration with [S. Vahid Naghvi](https://scholar.google.com/citations?user=5bT9h5IAAAAJ&hl=en), is nearing its release. This study explores the application of neural network-based model predictive control (MPC) for a Continuous Stirred Tank Reactor (CSTR).
 
