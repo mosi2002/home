@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my full [CV](https://github.com/mosi2002/home/files/CV.pdf).
+Download my full [CV](https://mosi2002.github.io/home/files/CV.pdf).
 
 ## Education
 
