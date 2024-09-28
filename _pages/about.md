@@ -16,7 +16,7 @@ My [B.Sc. thesis](https://mosi2002.github.io/home/posts/2024/05/bachelor-thesis/
 
 I also have many years of experience as a software engineer and ai researcher in [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/) and [FTM](https://www.linkedin.com/company/fater-afkar-fanavar/about/) for Machine Vision projects.
 
-Download my [CV](https://github.com/mosi2002/home/files/CV.pdf).
+Download my [CV](https://mosi2002.github.io/home/files/CV.pdf).
 
 ## Research Interests:
 * Machine Learning 
