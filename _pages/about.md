@@ -26,7 +26,7 @@ Download my [CV](https://mosi2002.github.io/home/files/CV.pdf).
 
 <hr>
 ## Recent Publications: 
-* ?
+
 * Neural Network-Based Model Predictive Control for CSTR: A Comparative Study of Output Layer Architectures; Mostafa Nesaeian, [S. Vahid Naghavi](https://scholar.google.com/citations?user=5bT9h5IAAAAJ&hl=en) 2024   In Preparation
 
 <hr>
