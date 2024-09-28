@@ -12,7 +12,8 @@ redirect_from:
 
 I am a Bachelor student of Electrical Engineering at the school of [EE Amirkabir University of Technology (Tehran Polytechnic)](https://ee.aut.ac.ir/en), Iran. I am a research assistant under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en) in school of electrical engineering of Tehran Polytechnic, i'm also a part-time researcher under supervision of Dr. [Saeid Shokri](https://www.researchgate.net/profile/Saeid-Shokri) and Dr. [S. Vahid Naghavi](https://scholar.google.com/citations?user=5bT9h5IAAAAJ&hl=en) at Digital Transformation Center in [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/). My research focuses on control theory and neural network based control. Additionally, I am interested in applied mathematics and machine learning.
 
-My B.Sc. thesis focus on nueral network based state estimation using Lie derivative under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en)
+My [B.Sc. thesis](https://mosi2002.github.io/home/posts/2024/05/bachelor-thesis/) focus on nueral network based state estimation using Lie derivative under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en)
+
 I also have many years of experience as a software engineer and ai researcher in [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/) and [FTM](https://www.linkedin.com/company/fater-afkar-fanavar/about/) for Machine Vision projects.
 
 Download my [CV](https://github.com/mosi2002/home/files/res.pdf).
