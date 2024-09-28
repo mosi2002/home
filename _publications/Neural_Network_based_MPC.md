@@ -11,7 +11,7 @@ In recent years, neural networks have proven to be valuable tools in improving M
 
 Gated Recurrent Units (GRUs) are a type of Recurrent Neural Network (RNN) that are particularly well-suited for processing **time series** data. GRUs are computationally less expensive than their counterparts, such as Long Short-Term Memory (LSTM) networks, while still offering comparable performance. This efficiency is crucial in real-time control systems where quick decisions are necessary.
 
-The states for CSTR are $$C_A$$ and $$T$$. The control inputs are $$C_A0$$ and $$Q$$. Next Step is about initializing random states and control inputs and obtain the outputs from dynamic of CSTR:
+The states for CSTR are $$C_A$$ and $$T$$. The control inputs are $$C_{A0}$$ and $$Q$$. Next Step is about initializing random states and control inputs and obtain the outputs from dynamic of CSTR:
 
 $$
 \frac{dC_A}{dt} = \frac{F}{V}(C_{A0} - C_A) - k_0 e^{-\frac{E}{RT}} C_A^2 
