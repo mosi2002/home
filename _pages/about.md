@@ -37,16 +37,16 @@ Download my [CV](https://mosi2002.github.io/home/files/CV.pdf).
 ## Research Experience
 
     
-* Bachelor Thesis: Nueral network based state estimation using Lie derivative, 2024
+* **Bachelor Thesis: Nueral network based state estimation using Lie derivative**, 2024
 
   * This Thesis consider the problem of state observation for **nonlinear dynamics**. The problem with model-based observer is due to the need of solving PDEs, in this thesis by using on-line learning and considering the observer dynamics as a Chen-Fliess series. The proposed approach is demonstrated by a Oscillating system. [(Link)](https://github.com/mosi2002/Bachelor_Thesis)
 
-* Research Assistant at Research Institute of Petroleum Industry (RIPI), May 2024 - Present
+*  **Research Assistant at Digital Transformation Center inResearch Institute of Petroleum Industry (RIPI)**, May 2024 - Present
 
   * Researching on Neural Network based Model Predictive Control (MPC) to explore how AI can enhance traditional control systems under supervision of Dr. [S. Vahid Naghavi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en).
 
 
-* Research Assistant at school of electrical engineer, Dec 2023 - Present
+* **Research Assistant at school of electrical engineer**, Dec 2023 - Present
 
   * Researching on various state estimation methods  under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en) to evaluate their potential benefits in diverse applications. My focus is on comparing their strengths and weaknesses to see which works best in various situations. In particular, I am looking for **Geometric** methods for state estimation purpose.
 
@@ -58,7 +58,7 @@ Download my [CV](https://mosi2002.github.io/home/files/CV.pdf).
 
 **2024-06-12** I published a blog about my Bsc thesis [Neural network based state estimation using Lie derivative](https://mosi2002.github.io/home/posts/2024/05/bachelor-thesis/).
 
-**2024-05-08**: During my research in Digital Lab in Research Institute of Petroleum Industry (RIPI), I published a blog post on [MSE vs RNN](https://mosi2002.github.io/home/posts/2024/05/MSE-vs-RNN/). 
+**2024-05-08**: During my research at Digital Transformation Center in Research Institute of Petroleum Industry (RIPI), I published a blog post on [MSE vs RNN](https://mosi2002.github.io/home/posts/2024/05/MSE-vs-RNN/). 
 <hr>
 
 ## Bio:
