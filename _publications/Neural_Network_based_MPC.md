@@ -16,6 +16,7 @@ The states for CSTR are $$C_A$$ and $$T$$. The control inputs are $$C_A0$$ and $
 $$
 \frac{dC_A}{dt} = \frac{F}{V}(C_{A0} - C_A) - k_0 e^{-\frac{E}{RT}} C_A^2 
 $$
+
 $$
 \frac{dT}{dt} = \frac{F}{V}(T_0 - T) + \frac{-\Delta H}{\rho_L C_P} k_0 e^{-\frac{E}{RT}} C_A^2 + \frac{Q}{\rho_L C_P V}
 $$
