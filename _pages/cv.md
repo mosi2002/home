@@ -67,7 +67,7 @@ plication using React.
 
   * Designing controllers via python (OpenOPC module) for pilot plant.
   * Instrumentation, Simulating and processing sensors.
-  *  Image processing. [(Link)](https://github.com/mosi2002/Internship)
+  * Image processing. [(Link)](https://github.com/mosi2002/Internship)
 
     
 ## TECHNICAL SKILLS
