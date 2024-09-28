@@ -25,9 +25,9 @@ Download my full [CV](https://mosi2002.github.io/home/files/CV.pdf).
     * This Thesis consider the problem of state observation for nonlinear dynamics. The problem with model-based observer is due to the need of solving PDEs, in this thesis by using on-line learning and considering the observer dynamics as a Chen-Fliess series. The proposed approach is demonstrated by a Oscillating system. [(Link)](https://github.com/mosi2002/Bachelor_Thesis)
   
 
-* **Research Assistant** at [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/), Mar 2024 - Present
+* **Research Assistant** at Digital Transformation Center in [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/), Mar 2024 - Present
 
-  * Researching on Neural Network based Model Predictive Control (MPC) to explore how AI can enhance traditional control systems under supervision of Dr. [S. Vahid Naghavi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en).
+  * Researching on Neural Network based Model Predictive Control (MPC) to explore how AI can enhance traditional control systems under supervision of Dr. [Saeid Shokri](https://scholar.google.com/citations?user=xKkMMu4AAAAJ&hl=en) and Dr. [S. Vahid Naghavi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en).
 
 * **Research Assistant** at [school of Electrical Engineering](https://ee.aut.ac.ir/en), Dec 2023 - Present
 
