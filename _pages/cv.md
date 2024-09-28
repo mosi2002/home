@@ -55,15 +55,14 @@ Designing Homeworks and assisting students [(GitHub-Link)](https://github.com/mo
 
   * Designing and developing intuitive and responsive front-end interfaces for web ap-
 plication using React.
-  * Validation, evaluation and help for backend project.
-  * Conducted research and development for image processing, utilizing advanced neural
+  * Validation, evaluation and help for backend project using Flask framework.
+  * Image processing, utilizing neural network to create models for object detection.
 
 * **Image Processing**, Sep 2023 - Dec 2023: [Fater Afkar Fanavar](https://www.linkedin.com/company/fater-afkar-fanavar/about/)
 
   * Working on deepface model, Vgg16 for image processing.
   * Working on face vectorizing using mathematical methods with implementation.
 
-network architectures to create models for object detection and recognition.
 * **Summer Internship**, Jul 2023 - Aug 2023: [Fater Afkar Fanavar](https://www.linkedin.com/company/fater-afkar-fanavar/about/)
 
   * Designing controllers via python (OpenOPC module) for pilot plant.
