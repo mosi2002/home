@@ -20,6 +20,12 @@ Download my full [CV](https://mosi2002.github.io/home/files/CV.pdf).
 
 ## Research Experience
 
+
+*  **Research intern at artificial intelligence and data analysis (AIDA) lab in Iranian Research Institute for Information Science and Technology**, Oct 2024 - Present
+   * Researching on Multi-tasking learning for tissue analysis.
+   * Digitization of histopathology slides.
+    
+
 * **Bachelor Thesis: Nueral network based state estimation using Lie derivative**,  2024
 
     * This Thesis consider the problem of state observation for nonlinear dynamics. The problem with model-based observer is due to the need of solving PDEs, in this thesis by using on-line learning and considering the observer dynamics as a Chen-Fliess series. The proposed approach is demonstrated by a Oscillating system. [(Link)](https://github.com/mosi2002/Bachelor_Thesis)
