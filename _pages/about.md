@@ -36,6 +36,11 @@ Download my [CV](https://mosi2002.github.io/home/files/CV.pdf).
 <hr>
 ## Research Experience
 
+*  **Research intern at artificial intelligence and data analysis (AIDA) lab in Iranian Research Institute for Information Science and Technology**, Oct 2024 - Present
+   * Researching on Multi-tasking learning for tissue analysis.
+   * Digitization of histopathology slides.
+    
+
     
 * **Bachelor Thesis: Nueral network based state estimation using Lie derivative**, 2024
 
