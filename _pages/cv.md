@@ -21,7 +21,7 @@ Download my full [CV](https://mosi2002.github.io/home/files/CV.pdf).
 ## Research Experience
 
 
-*  **Research intern at artificial intelligence and data analysis (AIDA) lab in Iranian Research Institute for Information Science and Technology**, Oct 2024 - Present
+*  **Research Assistant at artificial intelligence and data analysis (AIDA) lab in Iranian Research Institute for Information Science and Technology**, Aug 2024 - Present
    * Researching on Multi-tasking learning for tissue analysis under supervision of Dr. [Azadeh Fakhrzadeh](https://scholar.google.se/citations?user=rnQMWNwAAAAJ&hl=en).
 
     
