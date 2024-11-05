@@ -57,7 +57,7 @@ Designing Homeworks and assisting students [(GitHub-Link)](https://github.com/mo
 
 ## Work Experience:
 
-* **AI researcher**, Mar 2024 - present: [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir)
+* **AI researcher**, Mar 2024 - Sep 2024: [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir)
 
   * Designing and developing intuitive and responsive front-end interfaces for web ap-
 plication using React.
