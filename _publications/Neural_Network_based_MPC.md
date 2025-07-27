@@ -1,27 +1,18 @@
 ---
-title: "Neural Network-Based Model Predictive Control for CSTR: A Comparative Study of Output Layer Architectures "
+title: "A Novel Spatially Aware Loss Function for Microscopy Cell Segmentation"
 collection: publications
-permalink: /publication/Neural-network-based-Model-predictive-control
-excerpt: 'In recent years, neural networks have proven to be valuable tools in improving Model Predictive Control (MPC) for complex systems. This study takes a close look at how neural networks can be used to model the dynamics of a Continuous Stirred Tank Reactor (CSTR), which is a common system in chemical processes. we explore how neural networks can serve as alternatives to traditional models in MPC, opening up new possibilities for combining advanced learning techniques with control systems. In this research we compare **MLPs** and **KANs** as a output layers architectures and using LSTM and GRU to handle time-serie data from dynamic of system.'
-date: 2024-09-05
+permalink: /publication/Spatially_Aware_Loss_Function_for_Microscopy_Cell_Segmentation
+excerpt: 'Loss functions play a critical role in deep learning-based image segmentation methods, guiding the optimization process to achieve accurate predictions. Conventional loss functions typically compute global differences between the predicted and ground truth segmentation masks. While effective during early training stages, these losses often become trapped in local minima, particularly when small, spatially localized errors are present. Such local misalignments are important for tasks like microscopy cell segmentation but may not significantly impact global loss metrics, leading to suboptimal model performance. To address this limitation, we propose a novel loss function based on spatial moments, which explicitly incorporates local structural variations. This spatially aware formulation enhances sensitivity to fine-grained segmentation errors and promotes better convergence in dense, detail-sensitive biomedical imaging tasks.'
+date: 2025-07-27
 venue: 'https://mosi2002.github.io/home/'
 citation: 'In Preparation'
 ---
-In recent years, neural networks have proven to be valuable tools in improving Model Predictive Control (MPC) for complex systems. This study takes a close look at how neural networks can be used to model the dynamics of a Continuous Stirred Tank Reactor (CSTR), which is a common system in chemical processes. we explore how neural networks can serve as alternatives to traditional models in MPC, opening up new possibilities for combining advanced learning techniques with control systems. In this research we compare **MLPs** and **KANs** as a output layers architectures and using LSTM and GRU to handle time-serie data from dynamic of system.
+Image segmentation involves assigning a specific label to each pixel in an image. Given its importance in a wide range of applications—including object detection\cite{Object} and medical image analysis\cite{medical1, medical2, medical3}—it has become a fundamental area of research in the field of computer vision.
 
-Gated Recurrent Units (GRUs) are a type of Recurrent Neural Network (RNN) that are particularly well-suited for processing **time series** data. GRUs are computationally less expensive than their counterparts, such as Long Short-Term Memory (LSTM) networks, while still offering comparable performance. This efficiency is crucial in real-time control systems where quick decisions are necessary.
+Nuclei segmentation is a critical step in analyzing nuclear features, which play a key role in detecting abnormal cells or tissues. This analysis supports cancer diagnosis, grading, and the formulation of effective treatment strategies\cite{Nuclei}. The emergence of whole-slide imaging (WSI) combined with advancements in deep learning has significantly advanced automated nuclei segmentation, offering high-resolution digital images and enabling the creation of sophisticated segmentation techniques\cite{WSI, DeepWSI}.
 
-The states for CSTR are $$C_A$$ and $$T$$. The control inputs are $$C_{A0}$$ and $$Q$$. Next Step is about initializing random states and control inputs and obtain the outputs from dynamic of CSTR:
+Recent studies have demonstrated the successful application of convolutional neural networks (CNNs) for the automatic segmentation of both 2D and 3D biological data\cite{CNN}. Most current deep learning approaches are based on the fully convolutional network (FCN) archThe widely used U-Net, a variant of the FCN architecture, has become a standard in image segmentation due to its multi-scale skip connections and learnable up-convolution layers\cite{Unet}. Furthermore, several architectures derived from U-Net have shown improved accuracy and performance, highlighting the significance of U-Net-based designs in advancing segmentation tasks\cite{Unet++, transUnet, attUnet, SwinUnet}.
 
-$$
-\frac{dC_A}{dt} = \frac{F}{V}(C_{A0} - C_A) - k_0 e^{-\frac{E}{RT}} C_A^2 
-$$
+Loss functions serve as the driving force behind model training in image segmentation, shaping how networks learn to distinguish different regions accurately\cite{Loss}. While loss functions play a fundamental role in image segmentation, most widely used ones overlook spatial context and treat each pixel independently. A crucial limitation of these conventional approaches is their inability to account for the spatial arrangement of pixels. This shortcoming becomes especially problematic in scenarios involving densely clustered or closely situated cells, where precise pixel positioning is essential for accurate segmentation.
 
-$$
-\frac{dT}{dt} = \frac{F}{V}(T_0 - T) + \frac{-\Delta H}{\rho_L C_P} k_0 e^{-\frac{E}{RT}} C_A^2 + \frac{Q}{\rho_L C_P V}
-$$
-
-then By Concatenation of all the these inputs and the outputs we will have N samples over time and it can be used for LSTM or GRU model. In this article we focus on comparison study on output layers of these models and we compare **MLPs** and **KANs**.
-
-**Pleased to announce that my latest project, conducted in collaboration with [S. Vahid Naghvi](https://scholar.google.com/citations?user=5bT9h5IAAAAJ&hl=en), is nearing its release. This study explores the application of neural network-based model predictive control (MPC) for a Continuous Stirred Tank Reactor (CSTR).
-
+To address this issue, we propose a novel Spatially Aware Loss Function specifically designed for microscopy cell segmentation, aiming to incorporate spatial dependencies into the learning process and enhance the model's ability to distinguish between adjacent cellular structures.
