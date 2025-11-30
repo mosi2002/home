@@ -10,11 +10,10 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-I am a Bachelor student of Electrical Engineering at the school of [EE Amirkabir University of Technology (Tehran Polytechnic)](https://ee.aut.ac.ir/en), Iran. I am a research assistant under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en) in school of electrical engineering of Tehran Polytechnic, i'm also a part-time researcher under supervision of Dr. [Saeid Shokri](https://scholar.google.com/citations?user=xKkMMu4AAAAJ&hl=en) and at Digital Transformation Center in [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/). My research focuses on control theory and neural network based control. Additionally, I am interested in applied mathematics and machine learning.
+I am a Master student of Applied Mathematics at the school of [Mathematical Sciences of Tarbiat Modares University](https://en-math.modares.ac.ir), iran. I am a research assistant under supervision of Dr. [Mahdieh Tahmasebi](https://scholar.google.com/citations?user=ZmKbbsQAAAAJ&hl=en) in school of Mathematical Sciences of Tarbiat Modares University, i'm also a Ai researcher under supervision of Dr. [Azadeh Fakhrzadeh](https://scholar.google.com/citations?user=rnQMWNwAAAAJ&hl=en) and Dr. [Amir Hossein Seddighi](https://scholar.google.com/citations?user=9RfEhtAAAAAJ&hl=en) at [Robotic and Artificial Intelligence Center Lab](https://raicenter.ir/) in [Iranian Research Institute for Information Science and Technology (IranDoc)](https://en.irandoc.ac.ir/). My research focuses on control theory, applied mathematics and machine learning.
 
-My [B.Sc. thesis](https://mosi2002.github.io/home/posts/2024/05/bachelor-thesis/) focuses on neural network based state estimation using Lie derivative under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en)
+Before starting my Master, I received my B.Sc. degree from the Department of [Electrical Engineering](https://ee.aut.ac.ir/en), Amirkabir University of Technology, Tehran, Iran, in 2025, with [B.Sc. thesis](https://mosi2002.github.io/home/posts/2024/05/bachelor-thesis/) focuses on data-driven and model-free method about observing states of non-linear dynamics using Lie derivative under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en).
 
-I also have many years of experience as a software engineer and ai researcher in [Research Institute of Petroleum Industry (RIPI)](https://www.ripi.ir/) and [FTM](https://www.linkedin.com/company/fater-afkar-fanavar/about/) for Machine Vision projects.
 
 Download my [CV](https://mosi2002.github.io/home/files/CV.pdf).
 
@@ -22,54 +21,48 @@ Download my [CV](https://mosi2002.github.io/home/files/CV.pdf).
 * Machine Learning 
 * Control Theory
 * Applied Mathematics
-* Optimization
 
 <hr>
 ## Recent Publications: 
 
-* Neural Network-Based Model Predictive Control for CSTR: A Comparative Study of Output Layer Architectures; Mostafa Nesaeian, [S. Vahid Naghavi](https://scholar.google.com/citations?user=5bT9h5IAAAAJ&hl=en) 2024   In Preparation
+* A Novel Spatially Aware Loss Function for Microscopy Cell Segmentation, 2025   In Preparation
 
 <hr>
-## Education:  
-* Bachelor of Science, Electrical Engineer, 2020 - present <br> [Amirkabir University of Technology, Tehran Polytechnic](https://aut.ac.ir/en)
+## Education:
+* Master of Science, Applied Mathematics, 2025 - present <br> [Tarbiat Modares University](https://en.modares.ac.ir)
+
+* Bachelor of Science, Electrical Engineer-control engineering, 2020 - 2025 <br> [Amirkabir University of Technology, Tehran Polytechnic](https://aut.ac.ir/en)
 
 <hr>
 ## Research Experience
 
-*  **Research Assistant at artificial intelligence and data analysis (AIDA) lab in Iranian Research Institute for Information Science and Technology**, Aug 2024 - Present
-   * Researching on Multi-tasking learning for tissue analysis under supervision of Dr. [Azadeh Fakhrzadeh](https://scholar.google.se/citations?user=rnQMWNwAAAAJ&hl=en).
+* **
+
+*  **Research Assistant at Robotic and Artificial Intelligence Center lab in Iranian Research Institute for Information Science and Technology**, Aug 2024 - Present
+   * Researching on loss function for tissue analysis under supervision of Dr. [Azadeh Fakhrzadeh](https://scholar.google.se/citations?user=rnQMWNwAAAAJ&hl=en) and Dr. [Amir Hossein Seddighi](https://scholar.google.com/citations?user=9RfEhtAAAAAJ&hl=en)
 
     
-
-    
-* **Bachelor Thesis: Nueral network based state estimation using Lie derivative**, 2024
+* **Bachelor Thesis: Nueral network based state estimation for non-linear systems**, 2024
 
   * This Thesis consider the problem of state observation for **nonlinear dynamics**. The problem with model-based observer is due to the need of solving PDEs, in this thesis by using on-line learning and considering the observer dynamics as a Chen-Fliess series. The proposed approach is demonstrated by a Oscillating system. [(Link)](https://github.com/mosi2002/Bachelor_Thesis)
-
-*  **Research Assistant at Digital Transformation Center in Research Institute of Petroleum Industry (RIPI)**, May 2024 - Present
-
-  * Researching on Neural Network architectures for Object detection and Face Recognition under supervision of Dr. [Saeid Shokri](https://scholar.google.com/citations?user=xKkMMu4AAAAJ&hl=en).
-
-
-
-* **Research Assistant at school of electrical engineer**, Dec 2023 - Present
-
-  * Researching on various state estimation methods  under supervision of Dr. [Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en) to evaluate their potential benefits in diverse applications. My focus is on comparing their strengths and weaknesses to see which works best in various situations. In particular, I am looking for **Geometric** methods for state estimation purpose.
-
 
 
 ## News:
 
-**2024-09-05** I Completed the code for Comparative study on [Neural Network-Based Model Predictive Control for CSTR: A Comparative Study of Output Layer Architectures](https://mosi2002.github.io/home/publication/Neural-network-based-Model-predictive-control), in which I discussed the differnce of MLPs and KANs. (fair comparative!)
 
-**2024-06-12** I published a blog about my Bsc thesis [Neural network based state estimation using Lie derivative](https://mosi2002.github.io/home/posts/2024/05/bachelor-thesis/).
 
-**2024-05-08**: During my research at Digital Transformation Center in Research Institute of Petroleum Industry (RIPI), I published a blog post on [MSE vs RNN](https://mosi2002.github.io/home/posts/2024/05/MSE-vs-RNN/). 
-<hr>
+**2025-04-12** I published a blog about my Bsc thesis [Neural network based state estimation for non-linear systems](https://mosi2002.github.io/home/posts/2024/05/bachelor-thesis/).
+
 
 ## Bio:
 
-As a Control Engineer student, **machine learning** and **artificial intelligence** has fascinated me because of the power they give to our understanding of the world and automation of our life. Due to the availability of huge amounts of data we are able to use machine learning and deep learning to analyze and model different tasks that humans can do.<br><br> I have explored and learned different areas of artificial intelligence. As a data scientist I always tried to use machine learning in different areas including social network analysis and financial algorithmic trading.<br><br> In addition to my experience working in data science companies, I have also dedicated time to researching advanced topics in machine learning, particularly **Machine Vision**. This field has been especially exciting for me, as it combines the power of AI with visual data and understand the world through images and videos. <br><br> As I progressed in my research I got familiar with **time-series analysis** a crucial area in machine learning that focuses on understanding and predicting data points collected over time. time-series not only deepened my understanding of machine learning but also opened doors to its integration with control engineering, particularly in applications like **Model Predictive Control (MPC)**, where time-dependent data is critical for optimizing system performance. Time-series has intrigued me because of its real-world applications in forecasting and related trend analysis like **Language Model (LM)**.
+With a background in **Electrical Engineering** for my bachelor's degree and **Applied Mathematics** for my master's, I have developed a strong foundation that bridges theoretical rigor with practical engineering applications. This unique combination has naturally led me to explore **machine learning** and **artificial intelligence**, fields that fascinate me because of the transformative power they bring to our understanding of the world and the automation of our lives. The availability of vast amounts of data has enabled us to use machine learning and deep learning to analyze and model complex tasks that were once exclusively human domains.
+
+I have explored and learned diverse areas of artificial intelligence, applying my skills as a data scientist to various fields including social network analysis and financial algorithmic trading. Through my work in data science companies, I have gained practical experience in developing and deploying machine learning solutions to real-world problems.
+
+In addition to my industry experience, I have dedicated significant time to researching advanced topics in machine learning, particularly **Machine Vision**. This field has been especially exciting for me, as it combines the power of AI with visual data to enable machines to understand the world through images and videos. My current research focuses on **nuclei segmentation in histopathological images**, where I investigate novel **loss functions** that explicitly incorporate spatial information to improve segmentation accuracy. This work addresses critical challenges in medical image analysis, where precise cell detection is essential for disease diagnosis and treatment planning.
+
+My mathematical background has naturally drawn me to **computational science**, particularly in the area of **stochastic models**. This field allows me to explore probabilistic approaches to modeling complex systems, uncertainty quantification, and the mathematical foundations that underpin modern machine learning algorithms. The intersection of computational methods and stochastic processes has opened new avenues for understanding and solving challenging problems in both theoretical and applied domains.
 
 
 
