@@ -36,7 +36,8 @@ Download my [CV](https://mosi2002.github.io/home/files/CV.pdf).
 <hr>
 ## Research Experience
 
-* **
+* **Research Assistant at school of Mathematical sciences in Tarbiat Modares University**, Jan 2025 - present
+  *  Researching on jump-diffusion models 
 
 *  **Research Assistant at Robotic and Artificial Intelligence Center lab in Iranian Research Institute for Information Science and Technology**, Aug 2024 - Present
    * Researching on loss function for tissue analysis under supervision of Dr. [Azadeh Fakhrzadeh](https://scholar.google.se/citations?user=rnQMWNwAAAAJ&hl=en) and Dr. [Amir Hossein Seddighi](https://scholar.google.com/citations?user=9RfEhtAAAAAJ&hl=en)
